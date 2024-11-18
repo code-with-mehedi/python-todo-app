@@ -9,17 +9,24 @@ A simple command-line Todo application in Python that allows you to manage your 
 ## Requirements:
 Python 3.x
 
-How to Run:
+**How to Run:**
 Clone the repository:
+
 git clone https://github.com/code-with-mehedi/python-todo-app.git
-Navigate to the project directory:
+
+**Navigate to the project directory:**
 cd todo-app
+
 Run the app:
+
 python3 todo_app.py
 
-Usage:
+**Usage:**
 
 Type your tasks when prompted to add them.
+
 View tasks by selecting the option to display them.
+
 Mark tasks as done by entering their task number.
+
 Tasks are saved in tasks.txt and will persist between sessions.
